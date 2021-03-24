@@ -1,0 +1,25 @@
+.left__data {
+  flex: 0.4;
+  padding: 10px;
+  background-color: white;
+  margin: 20px;
+  box-shadow: 0 0 5px 2px rgb(156, 156, 156);
+  /* border: 5px solid red; */
+}
+
+.left__data h1 {
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.left__data > select {
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 2px rgba(41, 40, 40, 0.657);
+  outline: none;
+}
+
+.left__data > select > option {
+  padding: 20px;
+}
